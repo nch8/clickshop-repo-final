@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "81368056763",
+    "project_id": "click-store-tecnoinf",
+    "storage_bucket": "click-store-tecnoinf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81368056763:android:6bfa8a1ddc08890674ba9e",
+        "android_client_info": {
+          "package_name": "com.clickstoretecnoinf.clickstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81368056763-j786nraff5ef0tr9p62fdfcesj2uv7ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clickstoretecnoinf.clickstore",
+            "certificate_hash": "2f44f69fa08b5d6db3c98c60a0a3b100adf42326"
+          }
+        },
+        {
+          "client_id": "81368056763-ofcaap3chmlosu023mvl3114grk3e7g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4gWQfcz_NuyF3vnMm-Ce84cq_HcXl6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81368056763-ofcaap3chmlosu023mvl3114grk3e7g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

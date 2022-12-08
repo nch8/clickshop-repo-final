@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81368056763",
+    "project_id": "click-store-tecnoinf",
+    "storage_bucket": "click-store-tecnoinf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81368056763:android:7b3ef1e5e8e8ef4c74ba9e",
+        "android_client_info": {
+          "package_name": "com.nicorc94.clickstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4gWQfcz_NuyF3vnMm-Ce84cq_HcXl6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
